@@ -1,0 +1,51 @@
+<section class="pt-[150px]">
+<div class="container">
+	<div class="pb-120 border-b border-[#E9ECF8]">
+		<div class="flex flex-wrap justify-center mx-[-16px]">
+			<div class="w-full lg:w-8/12 px-4">
+				<div>
+					<h2 class="font-bold text-black text-3xl sm:text-4xl leading-tight sm:leading-tight mb-8">{title}</h2>
+					<div class="flex flex-wrap items-center justify-between pb-4 mb-10 border-b border-[#E9ECF8]">
+						<div class="flex flex-wrap items-center">
+							<div class="flex items-center mr-10 mb-5">
+								<div class="max-w-[40px] w-full h-[40px] rounded-full overflow-hidden mr-4">
+									<img src="assets/images/author-2.png" alt="author" class="w-full" />
+								</div>
+								<div class="w-full">
+									<h4 class="text-base font-medium text-body-color mb-1">
+										By
+										<a href="javascript:void(0)" class="text-body-color hover:text-primary"> {author} </a>
+									</h4>
+								</div>
+							</div>
+							<div class="flex items-center mb-5">
+								<p class="flex items-center text-base text-body-color font-medium mr-5">
+									<span class="mr-3">
+										#
+									</span>
+									{date}
+								</p>
+							</div>
+						</div>
+					</div>
+					<div>
+						<div class="w-full rounded overflow-hidden mb-10 wow fadeInUp">
+							<img src="{image}" alt="image" class="w-full h-full object-cover object-center" />
+						</div>
+						<div class="wow fadeInUp">
+							{content}
+						</div>	
+						<div class="sm:flex items-center justify-between">
+							<div class="mb-5">
+								<h5 class="font-medium text-body-color text-sm mb-3">Popular Tags :</h5>
+								{tags}
+							</div>
+							<div class="mb-5"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
