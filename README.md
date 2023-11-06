@@ -16,3 +16,20 @@ Eazy website generator with tailwind css, SEO freindly
 
  <h1>solution for</h1>
   <p>WebEaze is the go-to solution for web developers, designers, and businesses seeking to create remarkable websites without compromising on efficiency or quality. Whether you're starting a personal blog, launching an online store, or building a corporate website, WebEaze has you covered.</p>
+
+<h2>Debug mode / Production mode</h2>
+<code>
+  #run in apachee server=1, static html=0
+  HTACCESS = 1
+</code>
+
+<h2>Debug mode / Production mode</h2>
+<code>
+  #run in apachee server=1, static html=0
+  HTACCESS = 1
+</code>
+
+<h2>Compiled path</h2>
+<code>
+  www
+</code>
