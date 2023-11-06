@@ -2,7 +2,7 @@
 Eazy website generator with tailwind css, SEO freindly
 
   <h1>Welcome to WebEaze</h1>
-    <p>WebEaze is a cutting-edge website creation framework designed to revolutionize the way websites are built and maintained. With a strong focus on simplicity, memory efficiency, time optimization, and top-notch quality, WebEaze empowers developers and designers to craft stunning websites with ease.</p>
+    <p>WebEaze is a cutting-edge website creation framework. With a strong focus on simplicity, memory efficiency, time optimization, and top-notch quality, WebEaze empowers developers and designers to craft stunning websites with ease.</p>
 
   <h1>Key Features:</h1>
     <ul>
